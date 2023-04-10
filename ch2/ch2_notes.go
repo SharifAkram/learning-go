@@ -1,3 +1,5 @@
+// This is not a real program. Only for notes. 
+
 package main
 
 import "fmt"
