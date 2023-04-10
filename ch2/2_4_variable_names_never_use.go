@@ -1,3 +1,5 @@
+// never use variable names below
+
 package main
 
 import "fmt"

@@ -1,3 +1,6 @@
+// To declare value immutable, use const keyword
+// below code will fail with an error
+
 package main
 
 import "fmt"
