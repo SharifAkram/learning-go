@@ -1,4 +1,4 @@
-// never use variable names below
+// Never use variable names below!
 
 package main
 

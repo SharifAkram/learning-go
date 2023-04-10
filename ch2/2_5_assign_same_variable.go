@@ -1,4 +1,4 @@
-// assigning look alike variables
+// Assigning look alike variables
 
 package main
 
